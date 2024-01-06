@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+      <file>shaders/model.vert</file>
+      <file>shaders/model.frag</file>
+      <file>qml/MainWindow.qml</file>
+      <file>qml/SideViewport.qml</file>
+      <file>qml/SideViews.qml</file>
+    </qresource>
+</RCC>
